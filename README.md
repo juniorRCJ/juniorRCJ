@@ -1,8 +1,6 @@
 ## Oi, Eu sou Junior Caldeira 👋
 
-- Estudando Desenvolvimento - FullStack  
-- Cursando Segurança da Informação 
-- Universidade Católica Brasília
+### Segurança da Informação UCB - Desenvolvimento de Software (Estudando)
 
 <div align="center">
   <a href="https://github.com/juniorRCJ">
