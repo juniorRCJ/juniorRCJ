@@ -1,6 +1,6 @@
 ## Oi, Eu sou Junior Caldeira 👋
 
-### Segurança da Informação UCB - Desenvolvimento de Software (Estudando)
+### Segurança da Informação UCB - Desenvolvimento de Software
 
 <div align="center">
   <a href="https://github.com/juniorRCJ">
