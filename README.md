@@ -1,6 +1,6 @@
 ## Oi, Eu sou Junior Caldeira 👋
 
-### Segurança da Informação UCB - Dev Full-Stack  Jr Java | Javascript | HTML | CSS
+### Dev Full-Stack Jr Java | Javascript |HTML |  CSS
 
 <div align="center">
   <a href="https://github.com/juniorRCJ">
